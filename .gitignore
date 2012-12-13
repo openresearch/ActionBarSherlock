@@ -1,12 +1,8 @@
 #Android generated
 bin
 gen
-lint.xml
 
 #Eclipse
-.project
-.classpath
-.settings
 .checkstyle
 
 #IntelliJ IDEA
@@ -26,8 +22,6 @@ pom.xml.*
 build.xml
 ant.properties
 local.properties
-proguard.cfg
-proguard-project.txt
 
 #Other
 .DS_Store
